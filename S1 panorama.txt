@@ -1,5 +1,6 @@
 (Nombre Completo, Carrera, Semestre)
-
+Diana Castañeda Gutiérrez, Igeniería Industrial, Segundo Semestre
 ¿Que relacion tiene la programación con tu carrera?
-
+La mayoría de las herramientas de la ingeniería industrial son computarizadas.Puedo llegar a usar algun codigo para programar actividades,etc.
 ¿Qué area te llamo mas la atención de la programación?
+La realidad virtual y aumentada
